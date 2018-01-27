@@ -27,6 +27,7 @@ public class XLActivity extends QYBActivity {
     @Override
     public void setupView() {
         toolbarTitle.setText("西联");
+
     }
 
     @Override
