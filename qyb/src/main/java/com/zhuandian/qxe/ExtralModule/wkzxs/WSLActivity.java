@@ -22,12 +22,13 @@ public class WSLActivity extends QYBActivity {
     @BindView(R.id.iv_back)
     ImageView ivBack;
 
-
-
     @Override
     public int getLayoutId() {
         return R.layout.wsl_wklist;
     }
+
+
+
 
     @Override
     public void setupView() {
